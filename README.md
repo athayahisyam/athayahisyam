@@ -20,7 +20,7 @@
 
 
 ## My Skill Set  
-<table style="bgcolor:#6F8FAF;border-radius:10px"><tr><td valign="top" width="33%">
+<table style="bgcolor:#6F8FAF;border-radius:10px;"><tr><td valign="top" width="33%">
 
   
 <div align="center">  
