@@ -7,10 +7,10 @@
 - 👨‍🎓 A graduate student at [Faculty of Computer Science, Universitas Indonesia](https://cs.ui.ac.id/)  
   
 
-- 🌱 My research interest includes: E-Learning, Distance Education, Moodle Implementation. Prospective theme also includes Semantic Web and Computational Cognitive Science.  
+- 🌱 My research interest includes: E-Learning, Distance Education, Moodle Implementation. Prospective theme also includes Semantic Web and Computational Cognitive Science. See my [publications](https://scholar.google.com/citations?hl=en&user=poy7OgIAAAAJ).
   
 
-- 📖 Currently learning Laravel Programming, Amazon Architect Solution, LaTeX Programming. Sharpening my skills in Math and Programming   
+- 📖 Currently learning Laravel Programming, Amazon Web Services, LaTeX Programming. Sharpening my skills in Math and Programming   
   
 
 - ⚡ Visit my homepage at [athayahisyam.github.io](https://athayahisyam.github.io/)  
@@ -19,7 +19,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Learning Interest
 <table><tr><td valign="top" width="33%" style="bgcolor:#6F8FAF;border-radius:10px;">
 
   
