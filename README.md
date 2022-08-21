@@ -61,6 +61,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=athayahisyam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<a href="https://github.com/athayahisyam">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athayahisyam&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=athayahisyam&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=athayahisyam&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=athayahisyam&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=athayahisyam&theme=github_dark"/>
+</a>  
 
 <br/>  
